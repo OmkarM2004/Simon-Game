@@ -1,1 +1,1 @@
-# Simon-Game
+The Simon Game is a classic memory game where players must repeat an increasingly long sequence of colors and sounds. This web-based version is built using HTML, CSS, and JavaScript, offering an interactive way to test and improve your memory skills.
